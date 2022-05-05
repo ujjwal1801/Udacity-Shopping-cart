@@ -76,7 +76,6 @@ function addToCart(sku) {
   else {
     increase(sku)
   }
-  console.log('cartArr after adding -------> ', cartArr);
 }
 
 
